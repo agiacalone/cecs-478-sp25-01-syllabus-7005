@@ -1,6 +1,6 @@
 # Introduction to Computer Security
 
-## CECS 478: Section 1 (7005)
+## CECS 478: Section 2 (7005)
 
 ### Spring 2025
 
