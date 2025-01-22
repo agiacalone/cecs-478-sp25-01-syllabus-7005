@@ -1,15 +1,15 @@
 # Introduction to Computer Security
 
-## CECS 478: Section 1 (4833)
+## CECS 478: Section 1 (7005)
 
-### Fall 2024
+### Spring 2025
 
 | Class Lecture | Time                | Room    |
 |---------------|---------------------|---------|
-| Mon Wed       | 11:00 AM - 12:15 PM | ECS-30 |
+| Mon Wed       | 11:00 AM - 12:15 PM | ECS-302 |
 
-| Instructor        | Email                       | Office  | Office Hours               |
-|-------------------|-----------------------------|---------|----------------------------|
+| Instructor        | Email                       | Office  | Office Hours                 |
+|-------------------|-----------------------------|---------|------------------------------|
 | Anthony Giacalone | anthony.giacalone@csulb.edu | ECS-501 | 10:00 - 11:00 AM Mo,Tu,We,Th |
 
 ### Required Textbook
@@ -47,21 +47,21 @@ By the conclusion of this course, students will be able to:
 
 | Week       | Subject                                              |
 |------------|------------------------------------------------------|
-| Aug 26     | Introduction to Computer Security and Hacking        |
-| Sep  2     | Tools, Setup, Environments, VMs/Containers           |
-| Sep  9     | Cryptography                                         |
-| Sep 16     | Cryptography, ctd.                                   |
-| Sep 23     | Cryptography, ctd.                                   |
-| Sep 30     | First exam, Malware                                  |
-| Oct  7     | Malware, ctd.                                        |
-| Oct 14     | Malware, ctd.                                        |
-| Oct 21     | Denial of Service & Networking                       |
-| Oct 28     | DoS, ctd.                                            |
-| Nov  4     | Second Exam, Arbitrary Code Execution                |
-| Nov 11     | ACE, ctd.                                            |
-| Nov 18     | OS Security                                          |
-| Nov 25     | Fall Break                                           |
-| Dec 2-9    | Case Studies, Final Exam                             |
+| Jan 20     | Introduction to Computer Security and Hacking        |
+| Jan 27     | Tools, Setup, Environments, VMs/Containers           |
+| Feb  3     | Cryptography                                         |
+| Feb 10     | Cryptography, ctd.                                   |
+| Feb 17     | Cryptography, ctd.                                   |
+| Feb 24     | First exam, Malware                                  |
+| Mar  3     | Malware, ctd.                                        |
+| Mar 10     | Malware, ctd.                                        |
+| Mar 17     | Denial of Service & Networking                       |
+| Mar 31     | **Spring Break**                                     |
+| Apr  7     | Second Exam, Arbitrary Code Execution                |
+| Apr 14     | ACE, ctd.                                            |
+| Apr 21     | OS Security                                          |
+| Apr 28     | Fall Break                                           |
+| May 5-12   | Case Studies, Final Exam                             |
 
 ### Exams
 
@@ -93,6 +93,10 @@ You will be responsible for finding and installing any software needed to comple
 ### Academic Honesty
 
 There is zero tolerance for cheating, plagiarism, or any other act of violation of Academic Integrity Policy. Work that you submit is assumed to be original unless your source material is documented appropriately, using proper citation. Using the ideas or words of another person, even a peer, or a web site, as if it were your own, is plagiarism. Any individual or group caught cheating on homework, lab assignments, or any exam/quiz will be subjected to full extent of academic actions allowed under University regulations. At a minimum, any student caught violating Academic Integrity Policy will receive no credit for the work concerned and one grade lower letter grade. To learn more about the University policy on Cheating and Plagiarism, visit: [Academic Integrity Regarding Cheating and Plagiarism](https://www.csulb.edu/academic-senate/policy-academic-integrity-regarding-cheating-and-plagiarism)
+
+### Ethical Use of Artificial Intelligence (Large Language Models) in Coursework
+
+Students are encouraged to explore and utilize Artificial Intelligence (AI) tools to enhance their learning experience. However, the use of AI must align with the principles of academic integrity and ethical conduct. AI tools may be used for tasks such as brainstorming, editing, or coding assistance, provided their use is transparently disclosed and does not misrepresent the student's own understanding or effort. Unauthorized use of AI to complete assignments, plagiarize content, or generate work without proper attribution is prohibited and will be treated as a violation of academic integrity policies. If you are uncertain about whether a particular use of AI is permitted, please consult the instructor before proceeding.
 
 ### Withdrawal Policy
 
